@@ -212,4 +212,20 @@ h1 {
 	.floating-btn {
 		right: 10px;
 	}
+
+	.first {
+		font-size: 10px;
+	}
+
+	.stuff {
+		font-size: 10px;
+		overflow: scroll;
+		height: 100%;
+	}
+
+
+	#annoying_message {
+		font-size: 13px;
+	}
+	
 }
